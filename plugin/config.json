@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "en"
+    },
+    {
+      "name": "ru"
+    },
+    {
+      "name": "piglatin"
+    }
+  ]
+}
