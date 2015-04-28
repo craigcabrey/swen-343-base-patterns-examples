@@ -1,0 +1,14 @@
+{
+  "name": "special-case",
+  "version": "1.0.0",
+  "description": "An implementation of the special case pattern in TypeScript.",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Cabrey <craigcabrey@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "typescript": "^1.5.0-alpha"
+  }
+}
