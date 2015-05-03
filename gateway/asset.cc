@@ -1,3 +1,9 @@
-#include <iostream>
+class Asset {
+ public:
+  Asset(int value) : _value(value) {}
+  inline int value() { return _value; }
+  inline void set_value(int value) { _value = value; }
 
-// TODO: Stub asset
+ private:
+  int _value;
+};
